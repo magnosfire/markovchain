@@ -74,6 +74,13 @@ table {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
+
+}
+
+@media screen and (max-width: 1000px) {
+    .div-info{
+        width:100%;
+    }
 }
 
 .div-content{
